@@ -13,7 +13,7 @@ From the database, the data is to be accessed through an API and finally be quer
   - Any database
   - API based on any language
   - Javascript / any frontend framework
-  - Optional tools:
+## Optional tools:
   - Docker
   - Trello
 
